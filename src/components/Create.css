@@ -1,0 +1,9 @@
+.Create-Page {
+    background: #FBFAFF;
+}
+
+.Inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
